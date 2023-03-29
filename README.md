@@ -1,8 +1,10 @@
 # BrickMMO Contributions Tool
 
-A small web application storing BrickMMO projects and contributors. 
+A small web application storing BrickMMO Smart City projects and contributors. 
 
-## Requirements:
+***
+
+## Repo Resources:
 
 * [BrickMMO](https://www.brickmmo.com/)
 * [BrickMMO Contributions](https://contributions.brickmmo.com/)
