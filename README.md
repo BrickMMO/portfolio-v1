@@ -1,4 +1,4 @@
-# BrickMMO Contributions Tool
+# Contributions Tool
 
 A small web application storing BrickMMO Smart City projects and contributors. 
 
