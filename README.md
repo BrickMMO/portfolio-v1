@@ -2,7 +2,13 @@
 
 A small web application storing BrickMMO Smart City projects and contributors. 
 
-***
+---
+
+## Project Stack
+
+This project has not yet been started. Stack has not yet been determined.
+
+---
 
 ## Repo Resources:
 
