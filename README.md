@@ -1,4 +1,4 @@
-# Contributions
+# Contributions V1
 
 A small web application storing BrickMMO Smart City projects and contributors. 
 
